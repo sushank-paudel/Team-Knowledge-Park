@@ -26,6 +26,7 @@ The Team Knowledge Park consists of :
 * [Adit Lohani](https://github.com/TotemicRook133)
 * [Anish Lohani](https://github.com/anishl135)
 * [Riwaj Adhikari](https://github.com/riwaj43adz)
+* [Sushank Paudel](https://github.com/sushank-paudel)
 * All members of the famous Team Knnowledge Park :)
 
 ## Prizes and Achievements
@@ -58,3 +59,4 @@ For any inquiries or feedback, you can reach out to us at `contact@adit.com.np`.
 ---
 
 Thank you for taking an interest in our Smart Roomba project. We hope this contribution to the Smart Agriculture ecosystem will benefit individuals and communities alike. Happy cleaning and grass cutting!
+
